@@ -1,6 +1,6 @@
 console.log("Hello from JS")
-var data1={image : "bz2.jpg",name : "Jeevitha Simma",designation : "Student"}
-var data2={image : "xyz.jpg",name : "Jeevi",designation : "Software Developer"}
+var data1={image : "pic.jpg",name : "E.Sushmitha ",designation : "Student"}
+var data2={image : "current123.jpg",name : "sush",designation : "Software Developer"}
 var isdata1 = true;
 var displaydata;
 var changemypicture = function(){
