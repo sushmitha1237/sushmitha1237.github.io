@@ -3,7 +3,7 @@ h1 {
 }
 
 table, th, td {
-  border: 1px Aqua;
+   border: 2px solid white;
   border-collapse: collapse;
 }
 
