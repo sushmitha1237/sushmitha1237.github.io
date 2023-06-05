@@ -1,10 +1,17 @@
-h2 {
-    color:black
+h1 {
+  color: rgb(117, 51, 124);
 }
+
 table, th, td {
-    border: 2px solid rgb(255, 255, 255);
-    border-collapse: collapse;
-  }
-  th, td {
-    background-color:Aqua;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th { 
+  background-color:#000;
+  color:rgba(107, 130, 129, 0.112);
+}
+td, th { 
+  padding:5px;
+  border:1px solid #000;
 }
